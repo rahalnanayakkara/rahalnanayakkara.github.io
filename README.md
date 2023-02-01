@@ -2,6 +2,4 @@
 
 ## Personal Website
 
-Under Development
-
-Edited in vscode
+This is the source code for my [website](https://rahalnanayakkara.github.io). Credits to [Jon Barron](https://jonbarron.info/)
